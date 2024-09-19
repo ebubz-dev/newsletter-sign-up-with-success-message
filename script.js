@@ -3,9 +3,6 @@ const success = document.getElementById('success');
 const email = document.getElementById('email');
 const error = document.getElementById('error');
 const placeholder = document.getElementById('placeholder');
-const image = document.getElementById('image');
-
-
 
 function button(task) {
     if (task === 'submit') {
