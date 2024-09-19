@@ -6,7 +6,7 @@ const placeholder = document.getElementById('placeholder');
 const image = document.getElementById('image');
 
 if (window.innerWidth < 769) {
-    image.src = './assets/images/illustration-sign-up-mobile.svg';
+    image.src = './images/illustration-sign-up-mobile.svg';
 }
 
 function button(task) {
